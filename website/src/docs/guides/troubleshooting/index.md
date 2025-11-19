@@ -1,4 +1,5 @@
----
+---https://empreguetes.xyz/
+---http://yugenmangasbr.dxtg.online
 title: Troubleshooting
 titleTemplate: Guides
 description: Facing source or app issues? Here's how to troubleshoot.
